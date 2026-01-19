@@ -150,32 +150,32 @@ CampusHub/
 
 ## 💻 Installation
 
-**Prerequisites:** Node.js (v18+), MongoDB  
+**Prerequisites:** Node.js (v18+), MongoDB
 
-1. Clone the repository:  
-```bash
+1. **Clone the repository**
+`bash
 git clone <repository-url>
-cd CampusHub
+cd CampusHub`
 
-2. Install backend dependencies:
-cd backend
-npm install
+3. **Install backend dependencies:**
+`cd backend
+npm install`
 
-3. Configure environment variables:
-cp .env.example .env
-# Edit .env with your MongoDB connection string
+4. **Configure environment variables:**
+`cp .env.example .env`
 
-4. Start MongoDB:
-mongod
+4. **Start MongoDB:**
+`mongod`
 
-5. Start backend server:
-npm run dev
+5. **Start backend server:**
+`npm run dev`
 
-6. Serve frontend:
-# Using Node.js http-server
-npx http-server frontend -p 8000
+6. **Serve frontend:**
+`npx http-server frontend -p 8000`
 
-7. Open browser at http://localhost:8000
+7. Open browser at `http://localhost:8000`
+
+---
 
 ## 🎨 UI Highlights
 
@@ -185,6 +185,8 @@ npx http-server frontend -p 8000
 - *Notifications* – Toast messages for success/error operations
 - *Color-coded badges* – Display event types and resource availability
 
+---
+
 ## Security Considerations
 
 - Input validation on client & server
@@ -192,8 +194,12 @@ npx http-server frontend -p 8000
 - CORS enabled for development
 - Production recommendations: Authentication, rate limiting, HTTPS, CSRF protection
 
-## Screenshots
+---
 
+## Screenshots
+<img width="1914" height="917" alt="Events" src="https://github.com/user-attachments/assets/61b22e95-3a9a-4570-a081-8e24f5aeb5ad" />
+<img width="1919" height="917" alt="Students" src="https://github.com/user-attachments/assets/70f0d1cf-2061-4b88-b2a8-9d547b1b9deb" />
+<img width="1919" height="915" alt="Resources" src="https://github.com/user-attachments/assets/5bf4b7cc-9611-41ab-8b5c-ca937c424cfe" />
 
 ## Contact
 
@@ -201,6 +207,8 @@ Created by **Remoshan**
 - Email: [remoshanfrancis123@outlook.com](mailto:remoshanfrancis123@outlook.com)  
 - GitHub: [github.com/remoshan](https://github.com/remoshan)  
 - LinkedIn: [linkedin.com/in/francis-remoshan](https://www.linkedin.com/in/francis-remoshan)
+
+---
 
 ## License
 
