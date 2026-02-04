@@ -1,0 +1,56 @@
+# Node / npm
+node_modules/
+npm-debug.log*
+package-lock.json
+yarn.lock
+pnpm-lock.yaml
+
+# Environment variables
+.env
+backend/.env
+frontend/.env
+
+# Logs
+logs/
+*.log
+logs-*.txt
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Runtime data
+pids/
+*.pid
+*.seed
+*.pid.lock
+
+# Coverage / test outputs
+coverage/
+.nyc_output/
+
+# Build / cache
+dist/
+build/
+.cache/
+.parcel-cache/
+.webpack-cache/
+
+# VS Code / IDE
+.vscode/
+.idea/
+*.iml
+
+# OS-specific
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# OneDrive and sync artifacts
+~$*
+*.tmp
+
+# Misc
+.eslintcache
+.env.local
+.env.*.local
+
