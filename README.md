@@ -8,8 +8,9 @@ This project provides a simple, developer-friendly stack using **JavaScript, HTM
 
 ### Visuals
 
-> Placeholder for a hero image or main dashboard screenshot:  
-> `![Student Activity & Resource Management System](docs/hero-screenshot.png)`
+![Events Management](https://github.com/user-attachments/assets/dbfcd108-2dde-4a34-b8e2-a23430b7fc5e)
+![Students Management](https://github.com/user-attachments/assets/e1cb63d4-5bf6-4dfc-9a80-4cf551b9c42b)
+![Resources Management](https://github.com/user-attachments/assets/a5763a06-6b25-4bdd-b32d-8cd6e3868205)
 
 ---
 
@@ -37,7 +38,7 @@ This project provides a simple, developer-friendly stack using **JavaScript, HTM
 Clone the repository and install backend dependencies:
 
 ```bash
-git clone <your-repo-url>
+git clone <github.com/remoshan/student-activity-and-resource-management-system>
 cd student-activity-and-resource-management-system
 
 cd backend
