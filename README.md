@@ -38,7 +38,7 @@ This project provides a simple, developer-friendly stack using **JavaScript, HTM
 Clone the repository and install backend dependencies:
 
 ```bash
-git clone <github.com/remoshan/student-activity-and-resource-management-system>
+git clone https://github.com/remoshan/student-activity-and-resource-management-system.git
 cd student-activity-and-resource-management-system
 
 cd backend
